@@ -1,0 +1,64 @@
+# API Contract: Documentation Content Access
+
+## Purpose
+This API contract defines the interface for accessing documentation content, primarily for future RAG (Retrieval Augmented Generation) chatbot integration as specified in the project constitution.
+
+## Endpoints
+
+### GET /api/v1/content/search
+**Description**: Search documentation content based on query terms
+
+**Request**:
+- Method: GET
+- Path: /api/v1/content/search
+- Query Parameters:
+  - q (string, required): Search query
+  - limit (number, optional): Maximum number of results (default: 10)
+  - module (string, optional): Filter by specific module
+
+**Response**:
+- Status: 200 OK
+- Content-Type: application/json
+- Body:
+```json
+{
+  "results": [
+    {
+      "id": "string",
+      "title": "string",
+      "content_snippet": "string",
+      "url": "string",
+      "module": "string",
+      "chapter": "string",
+      "relevance_score": "number"
+    }
+  ],
+  "total_count": "number"
+}
+```
+
+### GET /api/v1/content/{module}/{chapter}
+**Description**: Retrieve specific chapter content
+
+**Request**:
+- Method: GET
+- Path: /api/v1/content/{module}/{chapter}
+- Path Parameters:
+  - module (string): Module identifier
+  - chapter (string): Chapter identifier
+
+**Response**:
+- Status: 200 OK
+- Content-Type: application/json
+- Body:
+```json
+{
+  "id": "string",
+  "title": "string",
+  "content": "string",
+  "module": "string",
+  "chapter": "string",
+  "learning_outcomes": ["string"],
+  "related_content": ["string"]
+}
+```

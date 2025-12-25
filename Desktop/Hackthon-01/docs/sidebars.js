@@ -26,5 +26,35 @@ module.exports = {
         'module-1/chapter-3',
       ],
     },
+    {
+      type: 'category',
+      label: 'Module 2 - The Digital Twin (Gazebo & Unity)',
+      items: [
+        'module-2/module-2',
+        'module-2/chapter-4',
+        'module-2/chapter-5',
+        'module-2/chapter-6',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Module 3 - The AI-Robot Brain (NVIDIA Isaac™)',
+      items: [
+        'module-3/module-3',
+        'module-3/chapter-7',
+        'module-3/chapter-8',
+        'module-3/chapter-9',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Module 4 - Vision-Language-Action (VLA)',
+      items: [
+        'module-4/module-4',
+        'module-4/chapter-10',
+        'module-4/chapter-11',
+        'module-4/chapter-12',
+      ],
+    },
   ],
 };

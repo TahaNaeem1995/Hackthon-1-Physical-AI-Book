@@ -1,12 +1,12 @@
 ---
-title: Nav2: Path Planning for Bipedal Humanoid Movement
-description: Advanced path planning techniques for bipedal humanoid robots using Nav2
+title: "Nav2: Path Planning for Bipedal Humanoid Movement"
+description: "Advanced path planning techniques for bipedal humanoid robots using Nav2"
 sidebar_position: 3
-keywords: [nav2, path planning, bipedal, humanoid, navigation, robotics, ros2]
+keywords: ["nav2", "path planning", "bipedal", "humanoid", "navigation", "robotics", "ros2"]
 learning_outcomes:
-  - Implement Nav2 for bipedal humanoid robot navigation
-  - Configure specialized planners for humanoid locomotion
-  - Integrate balance and stability constraints into navigation
+  - "Implement Nav2 for bipedal humanoid robot navigation"
+  - "Configure specialized planners for humanoid locomotion"
+  - "Integrate balance and stability constraints into navigation"
 ---
 
 # Nav2: Path Planning for Bipedal Humanoid Movement

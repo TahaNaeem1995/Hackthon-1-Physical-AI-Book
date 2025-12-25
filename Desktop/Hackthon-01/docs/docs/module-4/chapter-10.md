@@ -1,12 +1,12 @@
 ---
-title: Voico-Action: Using OpenAI Whisper for Voice Commands
-description: Implementing voice command processing with OpenAI Whisper in robotics
+title: "Voico-Action: Using OpenAI Whisper for Voice Commands"
+description: "Implementing voice command processing with OpenAI Whisper in robotics"
 sidebar_position: 1
-keywords: [whisper, voice commands, speech recognition, robotics, ai, nlp, ros2]
+keywords: ["whisper", "voice commands", "speech recognition", "robotics", "ai", "nlp", "ros2"]
 learning_outcomes:
-  - Integrate OpenAI Whisper for real-time speech recognition
-  - Process voice commands for robotic action execution
-  - Implement voice command validation and error handling
+  - "Integrate OpenAI Whisper for real-time speech recognition"
+  - "Process voice commands for robotic action execution"
+  - "Implement voice command validation and error handling"
 ---
 
 # Voico-Action: Using OpenAI Whisper for Voice Commands

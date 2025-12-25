@@ -1,12 +1,12 @@
 ---
-title: Cognitive Planning: Using LLMs to Translate Natural Language into ROS 2 Actions
-description: Implementing LLM-based cognitive planning for robotic task execution
+title: "Cognitive Planning: Using LLMs to Translate Natural Language into ROS 2 Actions"
+description: "Implementing LLM-based cognitive planning for robotic task execution"
 sidebar_position: 2
-keywords: [llm, cognitive planning, natural language, ros2, ai, robotics, gpt, planning]
+keywords: ["llm", "cognitive planning", "natural language", "ros2", "ai", "robotics", "gpt", "planning"]
 learning_outcomes:
-  - Design LLM-based cognitive planning systems for robotics
-  - Translate natural language commands into ROS 2 action sequences
-  - Implement plan validation and execution monitoring
+  - "Design LLM-based cognitive planning systems for robotics"
+  - "Translate natural language commands into ROS 2 action sequences"
+  - "Implement plan validation and execution monitoring"
 ---
 
 # Cognitive Planning: Using LLMs to Translate Natural Language into ROS 2 Actions

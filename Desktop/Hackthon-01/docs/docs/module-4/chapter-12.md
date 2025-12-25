@@ -1,12 +1,12 @@
 ---
-title: Capstone Project: The Autonomous Humanoid
-description: A complete project integrating voice commands, planning, navigation, and manipulation
+title: "Capstone Project: The Autonomous Humanoid"
+description: "A complete project integrating voice commands, planning, navigation, and manipulation"
 sidebar_position: 3
-keywords: [autonomous humanoid, capstone, integration, robotics, ai, ros2, vla]
+keywords: ["autonomous humanoid", "capstone", "integration", "robotics", "ai", "ros2", "vla"]
 learning_outcomes:
-  - Integrate all learned concepts into a complete autonomous system
-  - Implement end-to-end voice-controlled humanoid robot
-  - Demonstrate complex task execution with multiple AI components
+  - "Integrate all learned concepts into a complete autonomous system"
+  - "Implement end-to-end voice-controlled humanoid robot"
+  - "Demonstrate complex task execution with multiple AI components"
 ---
 
 # Capstone Project: The Autonomous Humanoid

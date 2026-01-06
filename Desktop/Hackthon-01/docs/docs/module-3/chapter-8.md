@@ -1,12 +1,12 @@
 ---
-title: Isaac ROS: Hardware-Accelerated VSLAM and Navigation
-description: Leveraging Isaac ROS for real-time visual SLAM and navigation on NVIDIA platforms
+title: "Isaac ROS: Hardware-Accelerated VSLAM and Navigation"
+description: "Leveraging Isaac ROS for real-time visual SLAM and navigation on NVIDIA platforms"
 sidebar_position: 2
-keywords: [nvidia, isaac ros, slam, visual slam, navigation, robotics, cuda, gpu, ai]
+keywords: ["nvidia", "isaac ros", "slam", "visual slam", "navigation", "robotics", "cuda", "gpu", "ai"]
 learning_outcomes:
-  - Implement hardware-accelerated visual SLAM using Isaac ROS
-  - Configure GPU-accelerated navigation pipelines
-  - Integrate perception and navigation for autonomous robots
+  - "Implement hardware-accelerated visual SLAM using Isaac ROS"
+  - "Configure GPU-accelerated navigation pipelines"
+  - "Integrate perception and navigation for autonomous robots"
 ---
 
 # Isaac ROS: Hardware-Accelerated VSLAM and Navigation
